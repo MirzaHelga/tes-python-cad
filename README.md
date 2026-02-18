@@ -1,4 +1,5 @@
-Furniture & Room CAD Generator 
+Furniture & Room CAD Generator
+
 PROProgram berbasis Python untuk menghasilkan gambar kerja teknik secara otomatis dalam format AutoCAD (DXF) dan model 3D (STL). Alat ini dirancang untuk mempermudah desainer dan arsitek dalam membuat visualisasi cepat furnitur (kursi) dan denah ruangan berdasarkan input dimensi mentah. 
 Fitur Utama
 Dual Mode Generator: Mendukung pembuatan objek furnitur mendetail (Kursi) dan struktur arsitektur (Ruangan).
